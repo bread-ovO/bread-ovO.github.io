@@ -1,3 +1,6 @@
+---
+title: 浅析Json Web Token （JwT)
+---
 ### 什么是 JSON Web Token (JWT)?
 
 JSON Web Token (JWT) 是一个开放标准 (RFC 7519)，它定义了一种紧凑且自包含的方式，用于在各方之间安全地传输 JSON 对象形式的信息 。由于 JWT 可以被签名（使用密钥的 HMAC 算法）或使用 RSA 或 ECDSA 的公钥/私钥对，因此这些信息可以被验证和信任 。
